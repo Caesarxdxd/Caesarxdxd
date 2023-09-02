@@ -1,5 +1,5 @@
-# Hey selam, ben MZR
-![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
+# Hey selam, ben Caesar
+![profile count](https://komarev.com/ghpvc/?username=Caesarxdxd&color=red)&nbsp;
 [![GitHub Caesarxdxd](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/Caesarxdxd)&nbsp;
 <a href="https://discord.gg/dxacYS3gT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://instagram.com/sanal.en_iyileri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
