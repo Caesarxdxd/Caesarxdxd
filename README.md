@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey selam, ben MZR
+![profile count](https://komarev.com/ghpvc/?username=MZRCode&color=red)&nbsp;
+[![GitHub Caesarxdxd](https://img.shields.io/github/followers/MZRCode?label=Takipci&style=social)](https://github.com/Caesarxdxd)&nbsp;
+<a href="https://discord.gg/dxacYS3gT2"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/sanal.en_iyileri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://youtube.com/@caesarsanalhd"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
+<a href="https://open.spotify.com/user/31a25daxv2xgx46ulzg534jgysxu"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 
-<!--
-**Caesarxdxd/Caesarxdxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bildiğim Diller, Alt Diller ve Kullandığım Araçlar:
+![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 
-Here are some ideas to get you started:
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Glitch](https://img.shields.io/badge/-Glitch%20Code%20Editor-05122A?style=flat&logo=Glitch)&nbsp;
+![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=StackOverflow)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">:bar_chart: GitHub İstatislik:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=Caesarxdxd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=Caesarxdxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Caesarxdxd&theme=radical" />
+</p>
